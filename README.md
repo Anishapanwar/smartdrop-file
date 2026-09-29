@@ -4,9 +4,9 @@
 This data describe the overall performance of smart drop company. That include data cleaning transformation of data visualization data etc. using python.
 
 ##  libraries use 
-Pandas=use to analyse and describe a data
-Matplotlib=visualization tool
-Seaborn=visualization tool
+1.Pandas=use to analyse and describe a data
+2.Matplotlib=visualization tool
+3.Seaborn=visualization tool
 
 ## import data
 Messy_customer=contaion all customer information
