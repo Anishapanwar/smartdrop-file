@@ -1,5 +1,5 @@
 # Smart drop  company
-##overview
+##  overview
 
 This data describe the overall performance of smart drop company. That include data cleaning transformation of data visualization data etc. using python.
 
@@ -8,7 +8,7 @@ Pandas=use to analyse and describe a data
 Matplotlib=visualization tool
 Seaborn=visualization tool
 
-##import data
+## import data
 Messy_customer=contaion all customer information
 Messy_orderDetails=contain orderdetails info
 Messy_order=order information
@@ -24,7 +24,7 @@ The pipeline processes four backend transactional and master tables containing t
    4. messy_products.csv (90 rows): Product master catalog cataloging catalog inventory, descriptive identities, categories, and structural base costs.
 
 
-##data cleaning
+## data cleaning
 Fill null value ,delete duplicate column , transform data
 •	Changing the type of data
 •	Capitalizing the data 
