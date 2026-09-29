@@ -4,15 +4,15 @@
 This data describe the overall performance of smart drop company. That include data cleaning transformation of data visualization data etc. using python.
 
 ##  libraries use 
-1.Pandas=use to analyse and describe a data
-2.Matplotlib=visualization tool
-3.Seaborn=visualization tool
+*Pandas=use to analyse and describe a data
+*Matplotlib=visualization tool
+*Seaborn=visualization tool
 
 ## import data
-Messy_customer=contaion all customer information
-Messy_orderDetails=contain orderdetails info
-Messy_order=order information
-Messy_product=product info 
+*Messy_customer=contaion all customer information
+*Messy_orderDetails=contain orderdetails info
+*Messy_order=order information
+*Messy_product=product info 
 
 
 ##  Data description
@@ -26,15 +26,15 @@ The pipeline processes four backend transactional and master tables containing t
 
 ## data cleaning
 Fill null value ,delete duplicate column , transform data
-•	Changing the type of data
-•	Capitalizing the data 
-•	Title the data 
-•	Changing data into string
-•	Replacing the similar name or common name 
-•	Finding average value to fill is null value
-•	Filling value in is null 
-•	Finding duplicate value
-•	Droping duplicate
+*	Changing the type of data
+*	Capitalizing the data 
+*	Title the data 
+*	Changing data into string
+*	Replacing the similar name or common name 
+*	Finding average value to fill is null value
+*	Filling value in is null 
+*	Finding duplicate value
+*	Droping duplicate
 ##  Data  Cleaning Protocol
 The script implements a sequential programmatic cleaning protocol to enforce transactional integrity across dimensions:
 
@@ -63,9 +63,9 @@ Once cleaned and unified into a single database frame (Data), the pipeline compu
 •	Transforming string or float data type in data data type using pandas function
 •	Creating new column and finding new value such as month name, year etc .
 
-##data intergration
+## data intergration
 Merge the table using a common column.
-##insight
+## insight
 •	Total revenue
 •	Top product base on qty sold
 •	Top category base on revenue
